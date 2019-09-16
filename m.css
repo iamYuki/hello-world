@@ -1,0 +1,9 @@
+body{
+	font:3.5em 'raleway',sans-serif;
+	background: linear-gradient(to right,red,yellow);
+	color:rgba(0,0,0,5);
+	text-align:center;
+	text-transform: uppercase;
+	letter-spacing: .2em;
+
+}
